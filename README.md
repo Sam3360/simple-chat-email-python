@@ -2,10 +2,14 @@ Simple Console-Based Messaging and Chat Application
 This is a basic, console-based Python application that simulates an internal messaging (email) system and a public chat room. It's designed for educational or "fun" purposes to demonstrate fundamental Python concepts like dictionaries, lists, functions, and user interaction in a terminal environment.
 
 CRITICAL WARNINGS: READ BEFORE USE!
+
 ⚠️ NOT SECURE:
+
 Passwords are stored in plain text in memory. DO NOT USE THIS CODE FOR ANY REAL-WORLD APPLICATION OR WITH SENSITIVE INFORMATION. It is purely for demonstration and learning basic programming concepts.
 
+
 ⚠️ NO DATA PERSISTENCE:
+
 All user data, emails, and chat messages are stored in your computer's memory (RAM). This means ALL DATA WILL BE PERMANENTLY LOST every time the application is closed. There is no saving mechanism.
 
 Features
